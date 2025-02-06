@@ -41,7 +41,7 @@ export const LoginPage = () => {
           </Grid2>
 
           <Grid2 container direction="row" justifyContent="end">
-            <Link component={RouterLink} color="inherit" top="/auth/register">
+            <Link component={RouterLink} color="inherit" to="/auth/register">
               Crear una cuenta
             </Link>
           </Grid2>
