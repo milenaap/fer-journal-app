@@ -23,3 +23,8 @@ yarn add @mui/icons-material
 yarn add @reduxjs/toolkit react-redux
 ```
 
+## Firebase
+```sh
+yarn add firebase
+```
+
