@@ -14,9 +14,9 @@ import { useDispatch, useSelector } from "react-redux";
 import { startCreatingWithEmailPassword } from "../../../store/auth";
 
 const formData = {
-  email: "mile@gmail.com",
+  email: "nando@gmail.com",
   password: "123456",
-  displayName: "Milena",
+  displayName: "Nando",
 
   // email: '',
   // password: '',
