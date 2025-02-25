@@ -23,7 +23,7 @@ export const JournalPage = () => {
     <JournalLayout>
       
         {/* <NothingSelectedView /> */}
-        <NoteView />
+        {/* <NoteView /> */}
 
         {
           (active)
